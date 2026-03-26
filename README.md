@@ -1,15 +1,18 @@
 <div align="center">
 
 ```
-SHAYAN KHATIWADA
-Climate · Cryosphere · Mountain · Hydrology · Nepal
+# **SHAYAN KHATIWADA**
+Civil Engineer | Researcher | Climate-Cryosphere Interactions | Glacial & Mountain Hydrology | Cryosphere Hazards
+
+Budhanilakantha-10, Kapan, Kathmandu, Nepal
+nayahskhatiwada@gmail.com
 ```
 
-[![Research](https://img.shields.io/badge/Research-Cryosphere%20Hazards-1d9e75?style=flat-square&labelColor=0d1117)](https://github.com/shayan-khatiwada)
-[![Institution](https://img.shields.io/badge/KIC--Flows-Research%20Scholar-378add?style=flat-square&labelColor=0d1117)](https://github.com/shayan-khatiwada)
-[![PhD](https://img.shields.io/badge/Seeking-PhD%20Position-7f77dd?style=flat-square&labelColor=0d1117)](mailto:nayahskhatiwada@gmail.com)
-[![Elevation](https://img.shields.io/badge/Field%20Research-Up%20to%205%2C300m-ef9f27?style=flat-square&labelColor=0d1117)](https://github.com/shayan-khatiwada)
-[![Location](https://img.shields.io/badge/Based%20in-Kathmandu%2C%20Nepal-d85a30?style=flat-square&labelColor=0d1117)](https://github.com/shayan-khatiwada)
+[![Research](https://img.shields.io/badge/Research-Cryosphere%20Hazards-1d9e75?style=for-the-badge&labelColor=0d1117&color=FFFFF0)](https://github.com/nayahs-k)
+[![Institution](https://img.shields.io/badge/KIC--Flows-Research%20Scholar-378add?style=for-the-badge&labelColor=0d1117&color=FFFFF0)](https://github.com/nayahs-k)
+[![PhD](https://img.shields.io/badge/Seeking-PhD%20Position-7f77dd?style=for-the-badge&labelColor=0d1117&color=FFFFF0)](mailto:nayahskhatiwada@gmail.com)
+[![Elevation](https://img.shields.io/badge/Field%20Research-Up%20to%205%2C300m-ef9f27?style=for-the-badge&labelColor=0d1117&color=FFFFF0)](https://github.com/nayahs-k)
+[![Location](https://img.shields.io/badge/Based%20in-Kathmandu%2C%20Nepal-d85a30?style=for-the-badge&labelColor=0d1117&color=FFFFF0)](https://github.com/nayahs-k)
 
 </div>
 
