@@ -1,12 +1,8 @@
 <div align="center">
 
 ```
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ░                                                               ░
- ░   ▲ ▲  SHAYAN KHATIWADA  ▲ ▲                                 ░
- ░   Climate · Cryosphere · Mountain · Hydrology · Nepal         ░
- ░                                                               ░
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+SHAYAN KHATIWADA
+Climate · Cryosphere · Mountain · Hydrology · Nepal
 ```
 
 [![Research](https://img.shields.io/badge/Research-Cryosphere%20Hazards-1d9e75?style=flat-square&labelColor=0d1117)](https://github.com/shayan-khatiwada)
@@ -179,9 +175,9 @@ $ echo "Looking for..."
 ```
 ┌─────────────────────────────────────────────────────┐
 │  📧  nayahskhatiwada@gmail.com                      │
-│  📱  +977-9860173355                                 │
-│  📍  Kathmandu, Bagmati Province, Nepal              │
-│  🔬  KIC-Flows · Nepal Mountain Academy · CRPG-CNRS  │
+│  📱  +977-9860173355                                │
+│  📍  Kathmandu, Bagmati Province, Nepal             │
+│  🔬  KIC-Flows · Nepal Mountain Academy · CRPG-CNRS |
 └─────────────────────────────────────────────────────┘
 ```
 
